@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋 I'm TechSiddhi</h1>
+<h1 align="center">Hey, I'm Dev — just quietly building things.</h1>
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=techsiddhi" />
 </p>
 
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif" width="300"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&width=500&height=40&lines=Hey%2C+welcome+to+my+GitHub!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&width=500&height=40&lines=Plan%3F+What+plan%3F+I+just+go+with+the+idea+flow.)](https://git.io/typing-svg)
 
-Hi there! I'm **TechSiddhi** — a curious developer who enjoys solving problems and building cool stuff with code.
+Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 🎓 BCA Student <br>
 🔨 Currently learning Python, Flask, and backend development <br>
@@ -49,5 +49,5 @@ Hi there! I'm **TechSiddhi** — a curious developer who enjoys solving problems
 ---
 
 <p align="center">
-  Let’s keep building something new — one line of code at a time.
+  Let’s build something weird, cool, or just useful.
 </p>
