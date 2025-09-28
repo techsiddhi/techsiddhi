@@ -8,10 +8,12 @@
 <table>
   <tr>
     <td width="60%">
+
+    
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=500&height=44&lines=🌟+Welcome+to+my+coding+universe!+🚀;Building+projects+day+%26+night+💻;Always+curious+and+exploring+🔍)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
 
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.  
 
