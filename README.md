@@ -5,7 +5,8 @@
 
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif" width="300"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&width=500&height=40&lines=Plan%3F+What+plan%3F+I+just+go+with+the+idea+flow.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
 
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
