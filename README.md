@@ -21,8 +21,9 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 🔨 Currently learning **JavaScript, Blockchain & DSA** <br>
 🧠 Always exploring new things in tech <br>
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
-
-
+</td>
+ </tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack & Tools
