@@ -10,9 +10,9 @@
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 🎓 BCA Student <br>
-🔨 Currently learning Python, Flask, and backend development <br>
+🔨 Currently learning javascript, blockchain & DSA <br>
 🧠 Always exploring new things in tech <br>
-👨‍💻 Let's grow, build, and learn together
+👨‍💻 fun fact :- I'm fitness freak, & i've so many hobbies.
 
 ---
 
