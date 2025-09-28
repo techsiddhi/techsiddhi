@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Dev — just quietly building things.</h1>
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=techsiddhi" />
-</p>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=techsiddhi" /></p>
 
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif" width="300"/>
 
@@ -15,6 +13,7 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 🔨 Currently learning javascript, blockchain & DSA <br>
 🧠 Always exploring new things in tech <br>
 👨‍💻 fun fact :- I'm fitness freak, & i've so many hobbies.
+
 
 ---
 
