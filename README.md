@@ -56,12 +56,6 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 ---
 
-### 🐍 Fun Animation
-
-![snake gif](https://github.com/techsiddhi/techsiddhi/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center"><i>"I write code, break things, fix them, and repeat. That’s how I learn. 😊"</i></p>
 
 <!-- Footer Banner -->
