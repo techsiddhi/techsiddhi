@@ -16,8 +16,8 @@
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.  
 
 🎓 BCA Student <br>
-🔨 Currently learning **JavaScript, Blockchain & DSA** <br>
-🧠 Always exploring new things in tech <br>
+🔨 Currently learning **JavaScript & DSA** <br>
+🧠 Exploring **Blockchain**<br>
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
 
 ---
