@@ -20,15 +20,6 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 🧠 Always exploring new things in tech <br>
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
 
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F?style=for-the-badge&logo=firefox&logoColor=white)](your-link)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](your-link)
-
-   
 
 ---
 
