@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=44&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
 
+
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 
 🎓 BCA Student <br>
