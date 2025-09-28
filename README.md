@@ -11,6 +11,8 @@
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=500&height=44&lines=🌟+Welcome+to+my+coding+universe!+🚀;Building+projects+day+%26+night+💻;Always+curious+and+exploring+🔍)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
+
 Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.  
 
 🎓 BCA Student <br>
@@ -26,7 +28,7 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F?style=for-the-badge&logo=firefox&logoColor=white)](your-link)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](your-link)
 
-   <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
+   
 
 ---
 
