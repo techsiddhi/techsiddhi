@@ -5,9 +5,7 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=techsiddhi" /></p>
 
 <!-- Intro Section -->
-<table>
-  <tr>
-    <td width="60%">
+
 
     
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
@@ -21,9 +19,7 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 🔨 Currently learning **JavaScript, Blockchain & DSA** <br>
 🧠 Always exploring new things in tech <br>
 💪 Fun fact: I'm a fitness freak & have tons of hobbies  
-</td>
- </tr>
-</table>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
