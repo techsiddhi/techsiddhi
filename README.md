@@ -26,12 +26,7 @@ Hi there! Just a dev with too many tabs open and ideas flowing at 2AM.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F?style=for-the-badge&logo=firefox&logoColor=white)](your-link)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](your-link)
 
-    </td>
-    <td width="40%">
-      <img alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+   <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
 
 ---
 
